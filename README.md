@@ -10,8 +10,8 @@
 
 ## Установка
 
-```bash
-git clone https://github.com/yourname/product_parser.git
+``` 
+git clone bashgit@github.com:Trydimas/product_parser.git 
 cd product_parser
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
